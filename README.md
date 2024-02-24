@@ -15,9 +15,13 @@ unique-weather-oracle/
 │
 ├── src/
 │   ├── index.ts        # Main entry point for the canister
+
 │   ├── weather.ts      # Weather data collection and processing logic
+
 │   └── api.ts          # API endpoints for accessing weather data
 │
+
 ├── tests/              # Unit tests for the canister
 │
+
 └── README.md           # Documentation and instructions for deploying and testing
