@@ -26,3 +26,8 @@ unique-weather-oracle/
 │
 
 └── README.md           # Documentation and instructions for deploying and testing
+
+
+
+
+tests
