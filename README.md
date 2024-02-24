@@ -14,6 +14,7 @@ Immutable Data: Stores weather data on the ICP blockchain, ensuring transparency
 unique-weather-oracle/
 │
 ├── src/
+
 │   ├── index.ts        # Main entry point for the canister
 
 │   ├── weather.ts      # Weather data collection and processing logic
